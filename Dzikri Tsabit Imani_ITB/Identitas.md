@@ -1,4 +1,4 @@
-# First submission by Malik Akbar
+# First submission by Dzikri Tsabit Imani
 
 ## Screenshot
 ![Screenshot](screenshot.png)
