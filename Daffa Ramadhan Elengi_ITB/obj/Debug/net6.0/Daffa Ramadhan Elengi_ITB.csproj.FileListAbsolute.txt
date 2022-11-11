@@ -1,0 +1,15 @@
+C:\Users\Circle Hero\Documents\Google Developer Student Clubs\Hands On Git\Hands-On-Git-Intro\Daffa Ramadhan Elengi_ITB\bin\Debug\net6.0\Daffa Ramadhan Elengi_ITB.exe
+C:\Users\Circle Hero\Documents\Google Developer Student Clubs\Hands On Git\Hands-On-Git-Intro\Daffa Ramadhan Elengi_ITB\bin\Debug\net6.0\Daffa Ramadhan Elengi_ITB.deps.json
+C:\Users\Circle Hero\Documents\Google Developer Student Clubs\Hands On Git\Hands-On-Git-Intro\Daffa Ramadhan Elengi_ITB\bin\Debug\net6.0\Daffa Ramadhan Elengi_ITB.runtimeconfig.json
+C:\Users\Circle Hero\Documents\Google Developer Student Clubs\Hands On Git\Hands-On-Git-Intro\Daffa Ramadhan Elengi_ITB\bin\Debug\net6.0\Daffa Ramadhan Elengi_ITB.dll
+C:\Users\Circle Hero\Documents\Google Developer Student Clubs\Hands On Git\Hands-On-Git-Intro\Daffa Ramadhan Elengi_ITB\bin\Debug\net6.0\Daffa Ramadhan Elengi_ITB.pdb
+C:\Users\Circle Hero\Documents\Google Developer Student Clubs\Hands On Git\Hands-On-Git-Intro\Daffa Ramadhan Elengi_ITB\obj\Debug\net6.0\Daffa Ramadhan Elengi_ITB.csproj.AssemblyReference.cache
+C:\Users\Circle Hero\Documents\Google Developer Student Clubs\Hands On Git\Hands-On-Git-Intro\Daffa Ramadhan Elengi_ITB\obj\Debug\net6.0\Daffa Ramadhan Elengi_ITB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Circle Hero\Documents\Google Developer Student Clubs\Hands On Git\Hands-On-Git-Intro\Daffa Ramadhan Elengi_ITB\obj\Debug\net6.0\Daffa Ramadhan Elengi_ITB.AssemblyInfoInputs.cache
+C:\Users\Circle Hero\Documents\Google Developer Student Clubs\Hands On Git\Hands-On-Git-Intro\Daffa Ramadhan Elengi_ITB\obj\Debug\net6.0\Daffa Ramadhan Elengi_ITB.AssemblyInfo.cs
+C:\Users\Circle Hero\Documents\Google Developer Student Clubs\Hands On Git\Hands-On-Git-Intro\Daffa Ramadhan Elengi_ITB\obj\Debug\net6.0\Daffa Ramadhan Elengi_ITB.csproj.CoreCompileInputs.cache
+C:\Users\Circle Hero\Documents\Google Developer Student Clubs\Hands On Git\Hands-On-Git-Intro\Daffa Ramadhan Elengi_ITB\obj\Debug\net6.0\Daffa Ramadhan Elengi_ITB.dll
+C:\Users\Circle Hero\Documents\Google Developer Student Clubs\Hands On Git\Hands-On-Git-Intro\Daffa Ramadhan Elengi_ITB\obj\Debug\net6.0\refint\Daffa Ramadhan Elengi_ITB.dll
+C:\Users\Circle Hero\Documents\Google Developer Student Clubs\Hands On Git\Hands-On-Git-Intro\Daffa Ramadhan Elengi_ITB\obj\Debug\net6.0\Daffa Ramadhan Elengi_ITB.pdb
+C:\Users\Circle Hero\Documents\Google Developer Student Clubs\Hands On Git\Hands-On-Git-Intro\Daffa Ramadhan Elengi_ITB\obj\Debug\net6.0\Daffa Ramadhan Elengi_ITB.genruntimeconfig.cache
+C:\Users\Circle Hero\Documents\Google Developer Student Clubs\Hands On Git\Hands-On-Git-Intro\Daffa Ramadhan Elengi_ITB\obj\Debug\net6.0\ref\Daffa Ramadhan Elengi_ITB.dll
