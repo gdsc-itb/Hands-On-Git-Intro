@@ -1,4 +1,4 @@
 # First submission by Bastian Hendramukti Suryapratama
 
 ## Screenshot
-![Screenshot]("Screenshot 2022-11-14 060416.jpg")
+![Screenshot](Screenshot_2022-11-14_060416.jpg)
