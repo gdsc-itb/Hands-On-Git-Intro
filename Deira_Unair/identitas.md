@@ -1,4 +1,4 @@
-## First submission by Alldeira Lucky
+## First submission by Alldeira Lucky Syawalayesha
 
 ## Screenshot
 ![Screenshot](tugaz.png)
