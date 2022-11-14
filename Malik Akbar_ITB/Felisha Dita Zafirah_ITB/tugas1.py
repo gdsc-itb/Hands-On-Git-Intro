@@ -1,4 +1,4 @@
-print("Nama: Malik Akbar")
-print("Jurusan: Teknik Informatika")
+print("Nama: Felisha Dita Zafirah")
+print("Jurusan: Teknik Telekomunikasi")
 print("Universitas: ITB")
-print("Alasan ingin masuk GDSC: Ingin belajar lebih banyak tentang pemrograman")
+print("Alasan ingin masuk GDSC: Ingin mengembangkan skill di pemrograman")
