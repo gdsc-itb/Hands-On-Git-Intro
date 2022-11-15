@@ -1,1 +1,1 @@
-![Screenshot](../../../../../../../../c:/Users/yanua.DESKTOP-POMO5SQ/Documents/GDSC%20ITB/Screenshot_md/Screenshot.png)
+![Screenshot](Screenshot.png)
