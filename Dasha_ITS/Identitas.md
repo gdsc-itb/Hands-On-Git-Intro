@@ -1,4 +1,4 @@
-# First submission by Malik Akbar
+# First submission by Dasha Wibowo
 
 ## Screenshot
 ![Screenshot](screenshot.png)
