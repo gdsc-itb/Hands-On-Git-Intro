@@ -1,0 +1,1 @@
+print("Nama : Shafiq Irvansyah \nJurusan : STEI-K \nUniversitas : ITB \nAlasan ingin masuk GDSC : Ingin menambah wawasan dalam ruang lingkup teknologi dan memperluas koneksi")
