@@ -1,0 +1,1 @@
+print("Nama : Marvin Bryan Juanethan\nJurusan : STEI-R(TPB)\nUniversitas : ITB\nAlasan ingin masuk GDSC : Ingin memperdalam ilmu tentang algoritma, mencari intern, dan mengasah softskill terutama dalam komputasi.")
