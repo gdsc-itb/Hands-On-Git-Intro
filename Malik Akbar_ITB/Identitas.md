@@ -1,4 +1,4 @@
-# First submission by Malik Akbar
+# First submission by Dedy Hofmanindo Saragih
 
 ## Screenshot
-![Screenshot](screenshot.png)
+![Screenshot](screenshoot1.png)
