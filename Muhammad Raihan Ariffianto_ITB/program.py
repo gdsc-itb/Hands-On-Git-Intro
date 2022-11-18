@@ -1,0 +1,1 @@
+print('Nama : Muhammad Raihan Ariffianto');print('Jurusan : TPB STEI-K');print('Universitas : ITB ');print('Alasan masuk GDSC: Ingin mengasah kemampuan di bidang informatika dan bisa berperan dalam proyek yang bermanfaat bagi masyarakat')
