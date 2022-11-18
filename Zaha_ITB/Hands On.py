@@ -1,0 +1,4 @@
+print('Nama : Zaha Arya Purnama')
+print('Jurusan : TPB')
+print('Universitas : Institut Teknologi Bandung')
+print('Alasan ingin masuk GDSC :\nTeknologi berkembang sangat pesat saat ini. Teknologi yang hanya bisa kita bayangkan 1 hingga 2 dekade lalu, saat ini dapat dengan mudah kita temui di berbagai tempat.\nTeknologi sudah menjadi bagian dari hidup kita saat ini. Dengan adanya perkembangan teknologi, hidup kita menjadi semakin mudah.\nSaya ingin menjadi member GDSC ITB karena saya ingin mengeksplor minat saya dalam bidang teknologi.\nSelain itu, karena GDSC ITB berada langsung di bawah pengawasan Google, saya makin tertarik untuk menjadi member GDSC ITB.\n')
