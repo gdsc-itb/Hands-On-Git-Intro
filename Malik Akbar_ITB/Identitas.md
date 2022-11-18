@@ -1,4 +1,4 @@
 # First submission by akmal hafizh
 
 ## Screenshot
-![Screenshot](screenshot.png)
+![Screenshot](screenshot.jpg)
