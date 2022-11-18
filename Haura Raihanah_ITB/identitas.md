@@ -1,4 +1,3 @@
-# First submission by Haura Raihanah Haminullah
+# First submission by Haura Raihanah
 
-## Screenshot
-![Screenshot](screenshot.png)
+![screenshot](screenshot.png)
