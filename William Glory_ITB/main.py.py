@@ -1,0 +1,5 @@
+print("Nama : William Glory Henderson") 
+print("Jurusan : STEI-K")
+print("Universitas : Institut Teknologi Bandung")
+print("Alasan ingin masuk GDSC : Saya ingin menambah dan mengembangkan skill saya dalam programming.")
+print("                          Saya juga ingin menambah relasi dan pengalaman baru dalam komunitas GDSC.")
