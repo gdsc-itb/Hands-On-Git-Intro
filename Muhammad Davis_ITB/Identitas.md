@@ -1,0 +1,1 @@
+<img src="SSGDSC.png" alt="ini foto" style="float">
