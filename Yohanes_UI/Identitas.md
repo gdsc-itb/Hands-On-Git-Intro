@@ -1,4 +1,4 @@
 # First submission by Yohanes Sitompul
 
 ## Screenshot
-![Screenshot](screenshot.png)
+![Screenshot](Screenshot_2803 (2).png)
