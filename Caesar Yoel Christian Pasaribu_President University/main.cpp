@@ -1,0 +1,10 @@
+#include <iostream>
+using namespace std;
+
+int main() {
+  cout << "Name: Caesar Yoel Christian Pasaribu\n";
+  cout << "Jurusan: Information System\n";
+  cout << "Universitas: President University\n";
+  cout << "The reason I wanna be member in GDSC ITB cause I want to develop my skill in computer science and learn more experience in GDSC ITB. Not only about develop and learn, in GDSC ITB I wanna exchange ideas about computer science and programing with other member in GDSC ITB\n";
+  return 0;
+}
