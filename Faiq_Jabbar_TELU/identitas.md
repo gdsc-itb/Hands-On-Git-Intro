@@ -1,4 +1,4 @@
-# First submission by Malik Akbar
+# First submission by Muhammad Faiq Jabbar
 
 ## Screenshot
 ![Screenshot](Screenshot.jpg)
