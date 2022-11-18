@@ -1,1 +1,0 @@
-print("nama saya agis")
