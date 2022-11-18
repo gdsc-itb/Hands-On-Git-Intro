@@ -1,0 +1,6 @@
+print()
+print("Nama: M. Rivaldi Mahari")
+print("Jurusan: Fakultas STEI K (TPB)")
+print("Universitas: ITB")
+print("Alasan ingin masuk GDSC: The reason I joined gdsc is because gdsc is a platform for various technical topics that study technology that can add hard skills and soft skills")
+print()
