@@ -1,0 +1,6 @@
+print("Nama : Erwan Poltak Halomoan") 
+print("Jurusan : STEI-Komputasi")
+print("Universitas : Institut Teknologi Bandung")
+print("Alasan ingin masuk GDSC : Saya ingin mengembangkan skill yang sesuai dengan jurusan saya, yaitu komputasi dan")
+print("                          ingin eksplor lebih jauh seputar dunia pemrogramman serta ingin masuk ke dalam komunitas")
+print("                          yang bergerak dalam satu bidang yang sama di dunia pemrogramman.")
