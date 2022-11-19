@@ -1,0 +1,1 @@
+print("Nama : Jerry Eriksen\nJurusan : TPB FTSL\nUniversitas : Institut Teknologi Bandung\nAlasan ingin masuk GDSC : Mempelajari data science dan dunia digital untuk turut menjadi bagian digitalisasi dunia, mengaplikasikan ke dunia ketekniksipilan serta mengembangkan komunitas olimpiade Fisika FISIKAMPUNK di dunia digital.")
