@@ -1,0 +1,4 @@
+print("Nama : Achmad Kabir Rifai")
+print("Jurusan : Teknik Telekomunikasi")
+print("Universitas : Institut Teknologi Bandung")
+print("Alasan ingin masuk GDSC : Alasan saya ingin menjadi member GDSC ITB adalah saya ingin mendapatkan ilmu baru mengenai Web Development, cloud computing, ui/ux, data science, dan juga mobile deveopment. saya juga ingin menguasai Web Development, cloud computing, ui/ux, data science, dan juga mobile deveopment. saya juga ingin mendapatkan pengalaman baru di unit GDSC ITB yang sebeumnya saya belum lolos, saya juga ingin mendapatkan relasi baru dari teman teman berbagai fakultas")
