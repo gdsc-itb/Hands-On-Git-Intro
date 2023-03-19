@@ -1,0 +1,5 @@
+print("Nama : Theo Livius Natael") 
+print("Jurusan : TPB")
+print("Universitas : ITB")
+print("Alasan ingin masuk GDSC : ingin menambah wawasan dan bertemu serta bekerja ",end="")
+print("sama dengan orang orang yang berminat sama, serta ikut berbagai kompetisi")
