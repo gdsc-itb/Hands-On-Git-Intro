@@ -1,0 +1,1 @@
+print("Nama: Akmal Galih Aji Sugmo Seno\nJurusan: STEI-Komputasi \nUniversitas: ITB \nAlasan ingin masuk GDSC : ingin mencari relasi, ilmu, dan pengalaman")
