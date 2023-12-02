@@ -2,6 +2,7 @@
 ## Task
 > Hands on Git dan Github dengan membuat program sederhana dan mengumpulkannya melalui Pull Request di Github
 
+Ini Branch New
 ## How to do
 - Gunakan cara pengumpulan sesuai dengan demo hands on yang telah diperlihatkan sebelumnya
 - Fork ke repository github kalian masing - masing
